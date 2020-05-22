@@ -2,9 +2,6 @@
 import random
 import string
 
-root = tk.TK()
-root.mainloop()
-
 #Generate a random string of lower case.
 
 def randomString(stringLength=8):
