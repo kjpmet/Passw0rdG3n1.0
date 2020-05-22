@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 import random
 import string
-import tkinter as tk
-from tkinter import filedialog, Text
-import os
 
 root = tk.TK()
 root.mainloop()
