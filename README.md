@@ -8,6 +8,3 @@ Windows Users:
 Linux Users:
 1. Open Terminal
 2. python main.py
-
-
-Office: 3NGYK-RJC3V-M8994-V7MQR-X2GT3
